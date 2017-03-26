@@ -1,2 +1,2 @@
-# auto-m
-Auto Manager
+# auto-manager-ap-
+Auto Manager Kick Ass Application
