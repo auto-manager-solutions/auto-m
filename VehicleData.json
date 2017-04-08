@@ -1,0 +1,227 @@
+{
+  "Request": {
+    "RequestGuid": "f444982e-7712-47f2-b5b6-cae5e32d9bad",
+    "PackageId": "e3fabae1-e098-480d-9ba4-3c6e6e8e57fd",
+    "PackageVersion": 2,
+    "ResponseVersion": 2,
+    "DataKeys": {
+      "Vrm": "LG06JYL"
+    }
+  },
+  "Response": {
+    "StatusCode": "Success",
+    "StatusMessage": "Success",
+    "StatusInformation": {
+      "Lookup": {
+        "StatusCode": "Success",
+        "StatusMessage": "Success",
+        "AdviceTextList": []
+      }
+    },
+    "DataItems": {
+      "TechnicalDetails": {
+        "Dimensions": {
+          "UnladenWeight": null,
+          "RigidArtic": "RIGID",
+          "BodyShape": "NA",
+          "PayloadVolume": null,
+          "PayloadWeight": null,
+          "Height": 1497,
+          "NumberOfSeats": 5,
+          "KerbWeight": 0,
+          "GrossTrainWeight": null,
+          "LoadLength": null,
+          "DataVersionNumber": null,
+          "WheelBase": null,
+          "CarLength": 5113,
+          "Width": 1886,
+          "NumberOfAxles": 2,
+          "GrossVehicleWeight": null,
+          "GrossCombinedWeight": null
+        },
+        "General": {
+          "Engine": {
+            "Stroke": 87,
+            "PrimaryFuelFlag": "Y",
+            "ValvesPerCylinder": 3,
+            "Aspiration": "NATURALLY ASPIRATED",
+            "NumberOfCylinders": 12,
+            "CylinderArrangement": "VEE",
+            "ValveGear": "SOHC",
+            "Location": "FRONT",
+            "Description": "M137  E58",
+            "Bore": 84,
+            "Make": "MERCEDES CARS"
+          },
+          "PowerDelivery": "NORMAL",
+          "TypeApprovalCategory": "M1",
+          "DrivingAxle": "REAR",
+          "DataVersionNumber": null,
+          "EuroStatus": "0"
+        },
+        "Performance": {
+          "Torque": {
+            "FtLb": 391.1,
+            "Nm": 529.9,
+            "Rpm": 4100
+          },
+          "DataVersionNumber": null,
+          "Power": {
+            "Bhp": 362.1,
+            "Rpm": 5500,
+            "Kw": 270
+          },
+          "MaxSpeed": {
+            "Kph": 250,
+            "Mph": 155
+          },
+          "Co2": 313,
+          "Acceleration": {
+            "Mph": 6.3,
+            "Kph": 6.3
+          }
+        },
+        "Consumption": {
+          "ExtraUrban": {
+            "Lkm": 9,
+            "Mpg": 31.4
+          },
+          "UrbanCold": {
+            "Lkm": 20.1,
+            "Mpg": 14.1
+          },
+          "Combined": {
+            "Lkm": 13.3,
+            "Mpg": 21.2
+          }
+        }
+      },
+      "ClassificationDetails": {
+        "Smmt": {
+          "Make": "MERCEDES",
+          "Mvris": {
+            "ModelCode": "SEB",
+            "MakeCode": "M2"
+          },
+          "Trim": "S600L",
+          "Range": "S CLASS"
+        },
+        "Dvla": {
+          "ModelCode": "692",
+          "Model": "S600 L AUTO",
+          "MakeCode": "M2",
+          "Make": "MERCEDES"
+        }
+      },
+      "VehicleStatus": {
+        "MotVed": {
+          "VedRate": {
+            "FirstYear": {
+              "SixMonth": null,
+              "TwelveMonth": null
+            },
+            "PremiumVehicle": {
+              "YearTwoToSix": {
+                "TwelveMonth": null,
+                "SixMonth": null
+              }
+            },
+            "Standard": {
+              "SixMonth": 283.25,
+              "TwelveMonth": 515
+            }
+          },
+          "VedCo2Emissions": 340,
+          "MotDue": null,
+          "VedBand": "M",
+          "VedCo2Band": "M",
+          "TaxDue": null,
+          "Message": null,
+          "VehicleStatus": null
+        }
+      },
+      "VehicleHistory": {
+        "V5CCertificateCount": 1,
+        "PlateChangeCount": 0,
+        "NumberOfPreviousKeepers": 0,
+        "V5CCertificateList": [
+          {
+            "CertificateDate": "2006-08-21T00:00:00"
+          }
+        ],
+        "KeeperChangesCount": 0,
+        "VicCount": 0,
+        "ColourChangeCount": 0,
+        "ColourChangeList": null,
+        "KeeperChangesList": null,
+        "PlateChangeList": null,
+        "VicList": null
+      },
+      "VehicleRegistration": {
+        "DateOfLastUpdate": "2009-08-25T00:00:00",
+        "Colour": "GREEN",
+        "AbiBrokerNetCode": null,
+        "EngineNumber": "27595340016505",
+        "EngineCapacity": "5514",
+        "TransmissionCode": "A",
+        "DtpMakeCode": "M2",
+        "Exported": false,
+        "YearOfManufacture": "2006",
+        "WheelPlan": null,
+        "DateExported": null,
+        "Scrapped": false,
+        "Transmission": "AUTO 5 GEARS",
+        "DateFirstRegisteredUk": "2006-08-01T00:00:00",
+        "Model": "S600 L AUTO",
+        "GearCount": 5,
+        "ImportNonEu": false,
+        "DtpModelCode": "692",
+        "PreviousVrmGb": null,
+        "GrossWeight": 0,
+        "DoorPlanLiteral": "SALOON",
+        "MvrisModelCode": "SEB",
+        "Vin": "WDD2211762A073300",
+        "Vrm": "LG06JYL",
+        "DateFirstRegistered": "2006-08-01T00:00:00",
+        "DateScrapped": null,
+        "DoorPlan": "03",
+        "VinLast5": "73300",
+        "VehicleUsedBeforeFirstRegistration": false,
+        "MaxPermissibleMass": 0,
+        "Make": "MERCEDES",
+        "MakeModel": "MERCEDES S600 L AUTO",
+        "TransmissionType": "Automatic",
+        "SeatingCapacity": 5,
+        "FuelType": "PETROL",
+        "Co2Emissions": 340,
+        "Imported": false,
+        "MvrisMakeCode": "M2",
+        "PreviousVrmNi": null,
+        "VinConfirmationFlag": null
+      },
+      "SmmtDetails": {
+        "Range": "S CLASS",
+        "FuelType": "PETROL",
+        "EngineCapacity": "5786",
+        "MarketSectorCode": "AA",
+        "CountryOfOrigin": "GERMANY",
+        "ModelCode": "692",
+        "ModelVariant": "S600L",
+        "DataVersionNumber": null,
+        "NumberOfGears": 5,
+        "NominalEngineCapacity": 5.8,
+        "MarqueCode": "M2",
+        "Transmission": "AUTOMATIC",
+        "BodyStyle": "SALOON",
+        "VisibilityDate": "01/12/1999 00:00",
+        "SysSetupDate": "08/12/1999 00:00",
+        "Marque": "MERCEDES",
+        "CabType": "NA",
+        "TerminateDate": "31/05/2007 00:00",
+        "Series": "220",
+        "NumberOfDoors": 4,
+        "DriveType": "4X2"
+      }
+    }
+  }
+}
